@@ -1,5 +1,5 @@
-import sounddevice as sd
-from scipy.io.wavfile import write
+# import sounddevice as sd
+# from scipy.io.wavfile import write
 import requests
 import json
 
